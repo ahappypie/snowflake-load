@@ -1,0 +1,15 @@
+{
+  "name": "snowflake-load",
+  "version": "0.0.1",
+  "description": "Trigger a copy action from an S3 object to a Snowflake table",
+  "main": "index.js",
+  "files": [
+    "/lib"
+  ],
+  "repository": "https://github.com/ahappypie/snowflake-load",
+  "author": "Brian Bagdasarian",
+  "license": "MIT",
+  "dependencies": {
+    "snowflake-sdk": "^1.1.11"
+  }
+}
