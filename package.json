@@ -1,6 +1,6 @@
 {
   "name": "snowflake-load",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Trigger a copy action from an S3 object to a Snowflake table",
   "main": "index.js",
   "files": [
